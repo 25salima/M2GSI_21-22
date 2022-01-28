@@ -27,8 +27,8 @@
      units="px"
      width="1122.5197px"
      inkscape:zoom="0.45611672"
-     inkscape:cx="504.25689"
-     inkscape:cy="214.85728"
+     inkscape:cx="302.55413"
+     inkscape:cy="473.56299"
      inkscape:window-width="1129"
      inkscape:window-height="688"
      inkscape:window-x="-7"
@@ -41,7 +41,7 @@
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="../../../../WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
-       id="color-profile10743" />
+       id="color-profile44197" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9657">
@@ -56,10 +56,10 @@
     </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 79.37511 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="211.66666 : 79.37511 : 1"
-       inkscape:persp3d-origin="105.83333 : 52.91674 : 1"
+       inkscape:vp_x="3.2166015 : 89.539796 : 1"
+       inkscape:vp_y="0 : 800.92127 : 0"
+       inkscape:vp_z="214.88326 : 89.539796 : 1"
+       inkscape:persp3d-origin="109.04993 : 68.348725 : 1"
        id="perspective8519" />
     <linearGradient
        inkscape:collect="always"
@@ -69,7 +69,8 @@
        y1="121.61011"
        x2="135.15823"
        y2="107.3146"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.80092127,3.2166061,5.6372102)" />
   </defs>
   <g
      inkscape:label="Calque 1"
@@ -170,45 +171,45 @@
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8533"
-         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.894942;stroke-linejoin:round"
          inkscape:box3dsidetype="11"
-         d="m 89.027045,84.904645 13.460405,0.836034 V 127.9958 l -13.460405,-6.38569 z"
-         points="102.48745,85.740679 102.48745,127.9958 89.027045,121.61011 89.027045,84.904645 " />
+         d="m 92.24365,73.639146 13.4604,0.669597 v 33.843027 l -13.4604,-5.11444 z"
+         points="105.70405,74.308743 105.70405,108.15177 92.24365,103.03733 92.24365,73.639146 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8523"
          style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
          inkscape:box3dsidetype="6"
-         d="M 69.029242,85.806298 V 128.497 l 19.997803,-6.88689 V 84.904645 Z"
-         points="69.029242,128.497 89.027045,121.61011 89.027045,84.904645 69.029242,85.806298 " />
+         d="M 72.245847,74.361299 V 108.55319 L 92.24365,103.03733 V 73.639146 Z"
+         points="72.245847,108.55319 92.24365,103.03733 92.24365,73.639146 72.245847,74.361299 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8531"
          style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
          inkscape:box3dsidetype="13"
-         d="m 69.029242,128.497 12.445525,8.85634 21.012683,-9.35754 -13.460405,-6.38569 z"
-         points="81.474767,137.35334 102.48745,127.9958 89.027045,121.61011 69.029242,128.497 " />
+         d="m 72.245847,108.55319 12.445525,7.09324 21.012678,-7.49466 -13.4604,-5.11444 z"
+         points="84.691372,115.64643 105.70405,108.15177 92.24365,103.03733 72.245847,108.55319 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8525"
          style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
          inkscape:box3dsidetype="5"
-         d="m 69.029242,85.806298 12.445525,1.1595 21.012683,-1.225119 -13.460405,-0.836034 z"
-         points="81.474767,86.965798 102.48745,85.740679 89.027045,84.904645 69.029242,85.806298 " />
+         d="m 72.245847,74.361299 12.445525,0.928668 21.012678,-0.981224 -13.4604,-0.669597 z"
+         points="84.691372,75.289967 105.70405,74.308743 92.24365,73.639146 72.245847,74.361299 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8529"
-         style="fill:url(#linearGradient9659);fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
+         style="fill:url(#linearGradient9659);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
          inkscape:box3dsidetype="14"
-         d="M 81.474767,86.965798 V 137.35334 L 102.48745,127.9958 V 85.740679 Z"
-         points="81.474767,137.35334 102.48745,127.9958 102.48745,85.740679 81.474767,86.965798 " />
+         d="m 84.691372,75.289967 v 40.356463 l 21.012678,-7.49466 V 74.308743 Z"
+         points="84.691372,115.64643 105.70405,108.15177 105.70405,74.308743 84.691372,75.289967 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path8527"
          style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
          inkscape:box3dsidetype="3"
-         d="m 69.029242,85.806298 12.445525,1.1595 V 137.35334 L 69.029242,128.497 Z"
-         points="81.474767,86.965798 81.474767,137.35334 69.029242,128.497 69.029242,85.806298 " />
+         d="m 72.245847,74.361299 12.445525,0.928668 v 40.356463 l -12.445525,-7.09324 z"
+         points="84.691372,75.289967 84.691372,115.64643 72.245847,108.55319 72.245847,74.361299 " />
     </g>
     <path
        sodipodi:type="star"
@@ -247,11 +248,33 @@
        inkscape:transform-center-x="0.78562707"
        inkscape:transform-center-y="-1.1879721" />
     <rect
-       style="fill:#ffffff;stroke-width:0.264584"
+       style="fill:#ffffff;stroke-width:0.237937"
        id="rect10645"
        width="77.916939"
-       height="42.456753"
-       x="102.48745"
-       y="85.740677" />
+       height="34.335648"
+       x="105.70405"
+       y="74.374359" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46668px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="109.63477"
+       y="95.71302"
+       id="text12062"><tspan
+         sodipodi:role="line"
+         id="tspan12060"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46668px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#aa4400;stroke-width:0.264584"
+         x="109.63477"
+         y="95.71302">MA COUSINE </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="37.124905"
+       y="129.93767"
+       id="text32128"><tspan
+         sodipodi:role="line"
+         id="tspan32126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.264584"
+         x="37.124905"
+         y="129.93767">Mes meilleurs voeux</tspan></text>
   </g>
 </svg>
